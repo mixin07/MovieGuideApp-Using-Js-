@@ -4,6 +4,9 @@ A simple movie search web application built using **HTML, CSS, and Vanilla JavaS
 The app fetches movie details from the **OMDb API** and displays available information such as poster, plot, rating, year, genre, and cast.
 
 ---
+🚀 Live Demo: https://movie-guide-app-using-js.vercel.app/
+
+---
 
 ## ✨ Features
 
