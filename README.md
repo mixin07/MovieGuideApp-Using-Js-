@@ -35,6 +35,7 @@ The app fetches movie details from the **OMDb API** and displays available infor
 
 ## 📂 Project Structure
 
+```bash
 MovieGuideApp-Using-Js-/
 │
 ├── index.html # Main HTML file
@@ -42,7 +43,7 @@ MovieGuideApp-Using-Js-/
 ├── script.js # JavaScript logic & API calls
 ├── key.js # API key file (ignored in GitHub)
 └── README.md
-
+```
 
 ---
 
