@@ -50,9 +50,12 @@ MovieGuideApp-Using-Js-/
    git clone https://github.com/mixin07/MovieGuideApp-Using-Js-.git
 
 2. Navigate into the project directory:
+   ```bash
    cd MovieGuideApp-Using-Js-
 
+
 3. Create a file named key.js and add your OMDb API key:
+   ```bash
    const key = "YOUR_OMDB_API_KEY";
 
 
